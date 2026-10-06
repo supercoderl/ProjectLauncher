@@ -1,0 +1,5 @@
+{
+  "rootDirectory": "F:\\Workspace",
+  "excludeDirectories": [ "archive", "samples-old" ],
+  "maxDepth": 12
+}
